@@ -1,0 +1,15 @@
+Buatlah fungsi untuk menampilkan pintang piramida dengan fungsi rekursif dan perhitungan deret aritmatika ganjil dan genap, beserta tampilkan jumlah deretnya.
+Contoh:
+misalkan input 5, tampilkan 
+*****
+****
+***
+**
+*
+
+lalu langsung menampilakn ganjil dan genap seperti berikut:
+genap 	= 2,4
+ganjil 	= 1,3,5
+
+Jumlah deret Genap 	= 2
+Jumlah deret ganjil 	= 3
